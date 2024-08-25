@@ -1,7 +1,10 @@
 # tkinter-calculator
 A calculator application using tkinter in Python
+
 ![Screenshot (3)](https://github.com/user-attachments/assets/fafd63b0-7852-4f81-a6ce-bc97f6c655b9)
+
 How it works?
+
 ## Features
 
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
